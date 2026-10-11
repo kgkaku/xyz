@@ -2,6 +2,7 @@
 # Format: Channel Name = slug
 # prefix * for live event (mprod-cdn)
 
+ BFL | Live 4 = BFFL-4
 & Pictures HD = andpicture_hd
 &TV HD = and_tv_hd
 ATN Bangla = atn_bangla
@@ -16,8 +17,8 @@ BAN VS AUS = *BDVSAUS-26
 BD vs IRE = *bdvsire26
 BD vs NZ = *bdvsnz26
 BFL | Live 1 = *BFFL-1
-BFL | Live 2 = *match-12
-BFL | Live 3 = *match-13
+BFL | Live 2 = *BFFL-2
+BFL | Live 3 = *BFFL-3
 BFL | Live 4 = *match-18
 BFL | Live 5 = *BFFL-5
 Bangla TV = bangla_tv
