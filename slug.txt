@@ -92,6 +92,7 @@ Sony Ten Sports 2 HD = sony_sports_2_hd
 Sony Ten Sports 5 HD = sony_sports_5_hd
 Sony YAY = sonyyay
 TEST SRT = Test-SRT-New
+TEST SRT-2 = Test-SRT-2
 TLC = tlc_sd
 TLC HD = tlc_hd
 TRT World = trt_world
