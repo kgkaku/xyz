@@ -2,7 +2,7 @@
 # Format: Channel Name = slug
 # prefix * for live event (mprod-cdn)
 
- BFL | Live 4 = BFFL-4
+ BFL | Live 4 = SAFF-2026-4
 & Pictures HD = andpicture_hd
 &TV HD = and_tv_hd
 ATN Bangla = atn_bangla
@@ -69,7 +69,7 @@ Investigation Discovery HD = discovary_investigation_hd
 Islamic TV = islamic_tv
 Jamuna TV = jamuna_tv
 Mohona TV = mohona_tv
-Movie Bangla = sony_sports_2_hd
+Movie Bangla = movie_bangla
 NTV = n_tv
 Nexus TV = nexus_tv
 POGO = pogo_sd
